@@ -75,6 +75,7 @@ To install and run:
 git clone https://github.com/Sajid030/image-caption-generator.git
 cd image-caption-generator
 pip install -r requirements.txt
+```
 
 ---
 
