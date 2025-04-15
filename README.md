@@ -93,6 +93,7 @@ Want to share your project live? Here's how to deploy it on [Streamlit Cloud](ht
 headless = true
 port = $PORT
 enableCORS = false
+```
 
 ---
 
